@@ -1,81 +1,55 @@
-# Combo Thiết Bị Nhà Tắm Cao Cấp Chỉ 2800k
-✨ Nâng Tầm Không Gian Phòng Tắm Hiện Đại
+# 🛁 Combo Thiết Bị Vệ Sinh Cao Cấp | KingBep.vn
 
-Phòng tắm không chỉ là nơi vệ sinh cá nhân mà còn là không gian thư giãn sau một ngày dài.
-Bộ combo thiết bị nhà tắm cao cấp được thiết kế đồng bộ, sang trọng và tiện nghi, giúp bạn tối ưu chi phí, đồng thời tạo nên một tổng thể hài hòa, tinh tế cho ngôi nhà.
+![Combo Thiết Bị Vệ Sinh Cao Cấp](./images/cb7-phone.jpg)
 
-LIÊN HỆ MUA HÀNG & TƯ VẤN
-## Hotline / Zalo: 0865.965.626 ||  0878.765.999
+## 0865.965.626 - Giá tại xưởng.
 
-💎 Combo Gồm Những Gì?
+## Giới thiệu sản phẩm
 
-https://kingbep.vn/wp-content/uploads/2024/07/goc.jpg
+**Combo Thiết Bị Vệ Sinh Cao Cấp** mang đến giải pháp toàn diện cho không gian phòng tắm hiện đại. Bộ sản phẩm bao gồm các thiết bị đồng bộ về phong cách, chất liệu và màu sắc, tạo nên một tổng thể tinh tế, sang trọng và tiện nghi vượt trội.  
+Tất cả đều được sản xuất theo tiêu chuẩn châu Âu, mang lại **độ bền cao, dễ vệ sinh, chống bám bẩn và xả nước siêu khỏe**.
 
-Bộ sản phẩm được tuyển chọn từ các thương hiệu thiết bị vệ sinh uy tín, đảm bảo chất lượng và độ bền vượt trội:
+---
 
-Sen cây tắm nóng lạnh cao cấp
+## 📦 Bộ sản phẩm bao gồm
 
-Chất liệu đồng thau mạ chrome bền đẹp
+- 🚿 **Sen cây tắm nóng lạnh cao cấp** – Chất liệu đồng mạ chrome sáng bóng, đầu phun tia nước mịn.  
+- 🚽 **Bồn cầu liền khối tiết kiệm nước** – Xả xoáy 2 chế độ, chống bám men tuyệt đối.  
+- 🚰 **Lavabo bàn đá 2 tầng 80x50** – Đá tự nhiên nguyên khối, thiết kế bo cong tinh tế.  
+- 🧴 **Vòi lavabo đồng mạ titan** – Độ bền cao, hoạt động mượt.  
+- 🧻 **Bộ phụ kiện inox 304** – Gồm kệ, móc treo, giấy vệ sinh đồng bộ màu sắc.  
+- 🧻 **Gương led 3 màu 80x60** – Bo góc có cảm ứng led.  
 
-Tay sen massage 3 chế độ phun nước
+---
 
-Van điều chỉnh nhiệt độ an toàn, ổn định
+## 🌟 Ưu điểm nổi bật
 
-Bồn cầu liền khối tiết kiệm nước
+1. **Chất liệu cao cấp:** Toàn bộ linh kiện làm từ inox 304 mạ crom, ko hoen rỉ bền bỉ với thời gian.  
+2. **Thiết kế tinh tế:** Phong cách châu Âu hiện đại, dễ phối với mọi không gian.  
+3. **Dễ lắp đặt và bảo trì:** Hệ thống kết nối tiêu chuẩn quốc tế.  
+4. **Giá cực kỳ cạnh tranh:** Mua combo tiết kiệm đến 20% so với mua lẻ từng món.  
+5. **Bảo hành chính hãng:** Lên đến **5 năm** cho từng thiết bị.
 
-Men sứ nano chống bám bẩn, dễ lau chùi
+---
 
-Hệ thống xả xoáy mạnh, êm, không văng nước
+## 🖼 Thư viện hình ảnh sản phẩm
 
-Kiểu dáng hiện đại, gọn gàng cho mọi không gian
+| ![Combo tbvs](./images/3.jpg) | ![Combo phòng tắm](./images/4.jpg) |
+|:----------------------------------------:|:------------------------------------------:|
+| ![Lavabo đá tự nhiên](./images/5.jpg) | ![Bộ tbvs](./images/6.jpg) |
 
-Chậu lavabo đặt bàn & vòi nước lạnh/nóng
+> *Ảnh chụp thực tế sản phẩm tại showroom KingBep.vn.*
 
-Chất liệu sứ cao cấp chống ố vàng
+---
 
-Bề mặt sáng bóng, dễ vệ sinh
+## 🛒 Mua ngay hôm nay
 
-Thiết kế tràn sang trọng, hiện đại
+👉 **Giảm ngay 10%** cho khách hàng đặt hàng online qua Zalo!  
 
-Xi bệt & phụ kiện đồng bộ
+📞 **Zalo hỗ trợ:** [0865.965.626](https://zalo.me/0865965626)  
+🌐 **Website:** [https://kingbep.vn](https://kingbep.vn)  
+🏠 **Địa chỉ:** 190 Nguyễn Trãi - Thanh Xuân - Hà Nội  
 
-Đầy đủ ống thoát, bộ xả, van góc, dây cấp nước inox
+---
 
-Dễ dàng lắp đặt và thay thế
-
-💰 Mua Combo – Tiết Kiệm Hơn 20%
-
-Thay vì phải chọn từng món riêng lẻ, combo thiết bị nhà tắm giúp bạn:
-
-Tiết kiệm chi phí hơn 20% so với mua lẻ
-
-Được bảo hành chính hãng toàn bộ thiết bị
-
-Thiết kế đồng bộ về màu sắc và phong cách
-
-Giao hàng tận nơi, lắp đặt chuyên nghiệp
-
-🏡 Phù Hợp Cho Mọi Không Gian
-
-Nhà phố, chung cư, căn hộ cao cấp
-
-Homestay, khách sạn mini, resort
-
-Công trình cải tạo phòng tắm cũ
-
-Combo có nhiều kích thước & mẫu mã để lựa chọn, phù hợp cho diện tích nhỏ đến lớn.
-
-📦 Thông Tin Giao Hàng & Bảo Hành
-
-Bảo hành chính hãng: 3 – 5 năm
-
-Đổi mới trong 7 ngày nếu lỗi kỹ thuật
-
-Giao hàng toàn quốc trong 2 – 5 ngày làm việc
-
-📞 Liên Hệ Mua Hàng
-Đặt mua ngay combo thiết bị nhà tắm cao cấp để nhận ưu đãi đặc biệt trong tháng này!
-
-Hotline/Zalo: 0865 965 626
-Website: https://kingbep.vn/
-Địa chỉ showroom: 190 Nguyễn Trãi - Thanh Xuân - Hà Nội
+**© 2025 KingBep.vn** – Chuyên thiết bị nhà bếp & nhà tắm cao cấp.
