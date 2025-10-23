@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tongkhothietbivesinh.github.io/combothietbivesinh/sitemap.xml
