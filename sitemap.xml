@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Trang chính của combo -->
+  <url>
+    <loc>https://tongkhothietbivesinh.github.io/combothietbivesinh/</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/cb7-phone.jpg</image:loc>
+      <image:title>Combo Thiết Bị Vệ Sinh Cao Cấp KingBep.vn</image:title>
+    </image:image>
+  </url>
+
+  <!-- Sản phẩm liên quan 1 -->
+  <url>
+    <loc>https://github.com/tongkhothietbivesinh/combophongtam-9mon</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/16.jpg</image:loc>
+      <image:title>Combo phòng tắm 9 món cao cấp</image:title>
+    </image:image>
+  </url>
+
+  <!-- Sản phẩm liên quan 2 -->
+  <url>
+    <loc>https://github.com/tongkhothietbivesinh/combophongtam-9mon</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/17.jpg</image:loc>
+      <image:title>Combo phòng tắm 8 món KingBep.vn</image:title>
+    </image:image>
+  </url>
+
+  <!-- Sản phẩm liên quan 3 -->
+  <url>
+    <loc>https://github.com/tongkhothietbivesinh/combophongtam-9mon</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/18.jpg</image:loc>
+      <image:title>Combo phòng tắm 9 món KingBep.vn</image:title>
+    </image:image>
+  </url>
+
+</urlset>
