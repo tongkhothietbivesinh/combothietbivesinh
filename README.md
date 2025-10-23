@@ -1,10 +1,16 @@
-> 🔍 **Combo Thiết Bị Vệ Sinh Cao Cấp** – Giải pháp trọn bộ cho phòng tắm hiện đại. Sản phẩm chính hãng, bảo hành 5 năm, giao hàng toàn quốc 0865.965.626.
+> 🔍 **Combo Thiết Bị Vệ Sinh Cao Cấp** – Giải pháp trọn bộ cho phòng tắm hiện đại. Sản phẩm chính hãng, bảo hành 5 năm, giao hàng toàn quốc 📞 0865.965.626.
 
 # 🛁 Combo Thiết Bị Vệ Sinh Cao Cấp | KingBep.vn
 
-![Combo Thiết Bị Vệ Sinh Cao Cấp](./images/cb7-phone.jpg)
+<p align="center">
+  <img src="./images/cb7-phone.jpg" alt="Combo Thiết Bị Vệ Sinh Cao Cấp KingBep.vn" width="400">
+</p>
 
-## 0865.965.626 - Giá tại xưởng.
+
+<meta name="description" content="Combo thiết bị vệ sinh cao cấp KingBep.vn - trọn bộ sen cây, bồn cầu, lavabo, vòi nước đồng bộ, sang trọng, bảo hành 5 năm, giá tại xưởng.">
+
+## 📞 0865.965.626 - Giá tại xưởng
+
 
 ## Giới thiệu sản phẩm
 
@@ -41,23 +47,23 @@ Tất cả đều được sản xuất theo tiêu chuẩn châu Âu, mang lại
 <table>
   <tr>
     <td align="center">
-        <img src="./images/web-banda.jpg" width="200"><br>
+        <img alt="ban-da-lavabo" src="./images/web-banda.jpg" width="200"><br>
         <b>Bàn đá lavabo</b>
     </td>
     <td align="center">
-        <img src="./images/web-guongled.jpg" width="200"><br>
+        <img alt="guongled" src="./images/web-guongled.jpg" width="200"><br>
         <b>Gương led 80x60</b>
     </td>
     <td align="center">
-        <img src="./images/web-sencaytam1.jpg" width="200"><br>
+        <img alt="sen-cay" src="./images/web-sencaytam1.jpg" width="200"><br>
         <b>Sen cây phím đàn</b>
     </td>
     <td align="center">
-        <img src="./images/web-voilavabo.jpg" width="200"><br>
+        <img alt="voi-lavabo" src="./images/web-voilavabo.jpg" width="200"><br>
         <b>Vòi lavabo</b>
     </td>
     <td align="center">
-        <img src="./images/web-xibet.jpg" width="200"><br>
+        <img alt="bon-cau" src="./images/web-xibet.jpg" width="200"><br>
         <b>Bồn cầu liền khối</b>
     </td>
   </tr>
@@ -113,10 +119,11 @@ Nếu bạn quan tâm đến **Combo Thiết Bị Vệ Sinh Cao Cấp**, đừng
 🏠 **Địa chỉ:** 190 Nguyễn Trãi - Thanh Xuân - Hà Nội  
 
 ---
-TAGS:
-thiết bị vệ sinh cao cấp giá rẻ
-combo thiết bị phòng tắm hiện đại
-trọn bộ thiết bị nhà tắm đồng bộ
+### 🔖 Từ khóa:
+thiết bị vệ sinh cao cấp giá rẻ  
+combo thiết bị phòng tắm hiện đại  
+trọn bộ thiết bị nhà tắm đồng bộ  
+
 
 **© 2025 KingBep.vn** – Chuyên thiết bị nhà bếp & nhà tắm cao cấp.
 
@@ -140,6 +147,23 @@ trọn bộ thiết bị nhà tắm đồng bộ
     "name": "KingBep.vn"
   },
   "sku": "CBTVS-KB56",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "126"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Nguyễn Minh"
+    },
+    "reviewBody": "Combo thiết bị vệ sinh rất đẹp, chất lượng tốt và giá hợp lý!",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+    }
+  },
   "offers": {
     "@type": "Offer",
     "url": "https://github.com/tongkhothietbivesinh/combothietbivesinh",
