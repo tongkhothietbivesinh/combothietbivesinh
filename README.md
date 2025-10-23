@@ -34,13 +34,25 @@ Tất cả đều được sản xuất theo tiêu chuẩn châu Âu, mang lại
 
 ## 🖼 Thư viện hình ảnh sản phẩm
 
-| ![Combo tbvs](./images/3.jpg) | ![Combo phòng tắm](./images/4.jpg) |
+| ![Combo tbvs](./images/3.jpg) | ![Combo phòng tắm](./images/9.jpg) |
 |:----------------------------------------:|:------------------------------------------:|
-| ![Lavabo đá tự nhiên](./images/5.jpg) | ![Bộ tbvs](./images/6.jpg) |
+| ![Lavabo đá tự nhiên](./images/8.jpg) | ![Bộ tbvs](./images/10.jpg) |
 
 > *Ảnh chụp thực tế sản phẩm tại showroom KingBep.vn.*
 
 ---
+## 🔗 Sản phẩm liên quan
+
+Nếu bạn quan tâm đến **Combo Thiết Bị Vệ Sinh Cao Cấp**, đừng bỏ lỡ các sản phẩm nổi bật khác của KingBep.vn:
+
+| Hình ảnh | Sản phẩm | Mô tả ngắn | Liên kết |
+|:--:|:--|:--|:--|
+| ![Sen cây cao cấp](./images/20.jpg) | 🚿 **Combo Phòng Tắm 9 Món Cao Cấp** | Thiết kế hiện đại, đầu phun tia nước mịn, bảo hành 3 năm. | [Xem chi tiết →](https://github.com/tongkhothietbivesinh/combophongtam-9mon) |
+<!-- | ![Bồn cầu liền khối](./images/bon-cau.jpg) | 🚽 **Bồn Cầu Liền Khối Men Nano** | Siêu chống bám bẩn, xả xoáy mạnh mẽ, tiết kiệm nước. | [Xem chi tiết →](https://github.com/trancuongttlc/Bon-cau-lien-khoi-men-nano) |
+| ![Lavabo đá tự nhiên](./images/lavabo.jpg) | 🧴 **Lavabo Đặt Bàn Đá Tự Nhiên** | Mặt đá mịn, sang trọng, chống nứt vỡ, dễ vệ sinh. | [Xem chi tiết →](https://github.com/trancuongttlc/Lavabo-da-tu-nhien) |
+| ![Phụ kiện inox 304](./images/phu-kien.jpg) | 🪞 **Combo Phụ Kiện Inox 304** | Kệ, gương, móc treo, giấy vệ sinh đồng bộ màu inox sáng. | [Xem chi tiết →](https://github.com/trancuongttlc/Phu-kien-inox-304) |
+| ![Bồn tắm acrylic cao cấp](./images/bon-tam.jpg) | 🛁 **Bồn Tắm Acrylic Cao Cấp** | Chống trơn trượt, giữ nhiệt tốt, thiết kế tinh tế. | [Xem chi tiết →](https://github.com/trancuongttlc/Bon-tam-acrylic) | -->
+
 
 ## 🛒 Mua ngay hôm nay
 
