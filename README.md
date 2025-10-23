@@ -91,14 +91,14 @@ Nếu bạn quan tâm đến **Combo Thiết Bị Vệ Sinh Cao Cấp**, đừng
     </td>
     <td align="center">
       <a href="https://github.com/tongkhothietbivesinh/combophongtam-9mon">
-        <img alt="Combo phòng tắm 9 món" src="./images/16.jpg" width="200"><br>
+        <img alt="Combo phòng tắm 9 món" src="./images/17.jpg" width="200"><br>
         <b>Combo phòng tắm 9 món</b>
       </a>
       <b>12.000.000đ</b>
     </td>
     <td align="center">
       <a href="https://github.com/tongkhothietbivesinh/combophongtam-9mon">
-        <img alt="Combo phòng tắm 9 món" src="./images/16.jpg" width="200"><br>
+        <img alt="Combo phòng tắm 9 món" src="./images/18.jpg" width="200"><br>
         <b>Combo phòng tắm 9 món</b>
       </a>
       <b>12.000.000đ</b>
