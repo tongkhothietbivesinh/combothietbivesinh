@@ -1,3 +1,5 @@
+> 🔍 **Combo Thiết Bị Vệ Sinh Cao Cấp** – Giải pháp trọn bộ cho phòng tắm hiện đại. Sản phẩm chính hãng, bảo hành 5 năm, giao hàng toàn quốc 0865.965.626.
+
 # 🛁 Combo Thiết Bị Vệ Sinh Cao Cấp | KingBep.vn
 
 ![Combo Thiết Bị Vệ Sinh Cao Cấp](./images/cb7-phone.jpg)
@@ -76,21 +78,21 @@ Nếu bạn quan tâm đến **Combo Thiết Bị Vệ Sinh Cao Cấp**, đừng
   <tr>
     <td align="center">
       <a href="https://github.com/tongkhothietbivesinh/combophongtam-9mon">
-        <img src="./images/16.jpg" width="200"><br>
+        <img alt="Combo phòng tắm 9 món" src="./images/16.jpg" width="200"><br>
         <b>Combo phòng tắm 9 món</b>
       </a>
       <b>12.000.000đ</b>
     </td>
     <td align="center">
       <a href="https://github.com/tongkhothietbivesinh/combophongtam-9mon">
-        <img src="./images/16.jpg" width="200"><br>
+        <img alt="Combo phòng tắm 9 món" src="./images/16.jpg" width="200"><br>
         <b>Combo phòng tắm 9 món</b>
       </a>
       <b>12.000.000đ</b>
     </td>
     <td align="center">
       <a href="https://github.com/tongkhothietbivesinh/combophongtam-9mon">
-        <img src="./images/16.jpg" width="200"><br>
+        <img alt="Combo phòng tắm 9 món" src="./images/16.jpg" width="200"><br>
         <b>Combo phòng tắm 9 món</b>
       </a>
       <b>12.000.000đ</b>
@@ -111,5 +113,46 @@ Nếu bạn quan tâm đến **Combo Thiết Bị Vệ Sinh Cao Cấp**, đừng
 🏠 **Địa chỉ:** 190 Nguyễn Trãi - Thanh Xuân - Hà Nội  
 
 ---
+TAGS:
+thiết bị vệ sinh cao cấp giá rẻ
+combo thiết bị phòng tắm hiện đại
+trọn bộ thiết bị nhà tắm đồng bộ
 
 **© 2025 KingBep.vn** – Chuyên thiết bị nhà bếp & nhà tắm cao cấp.
+
+
+<!-- Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Combo Thiết Bị Vệ Sinh Cao Cấp",
+  "image": [
+    "https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/cb7-phone.jpg",
+    "https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/10.jpg",
+    "https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/11.jpg",
+    "https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/15.jpg",
+    "https://raw.githubusercontent.com/tongkhothietbivesinh/combothietbivesinh/main/images/16.jpg"
+  ],
+  "description": "Combo Thiết Bị Vệ Sinh Cao Cấp KingBep.vn mang đến giải pháp toàn diện cho phòng tắm hiện đại. Bộ sản phẩm gồm sen cây tắm, bồn cầu liền khối, lavabo bàn đá, vòi lavabo và phụ kiện inox 304 đồng bộ. Thiết kế sang trọng, chống bám bẩn, bảo hành 5 năm.",
+  "brand": {
+    "@type": "Brand",
+    "name": "KingBep.vn"
+  },
+  "sku": "CBTVS-KB56",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://github.com/tongkhothietbivesinh/combothietbivesinh",
+    "priceCurrency": "VND",
+    "price": "12000000",
+    "priceValidUntil": "2026-12-31",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "KingBep.vn",
+      "url": "https://kingbep.vn",
+      "telephone": "+84865965626"
+    }
+  }
+}
+</script>
