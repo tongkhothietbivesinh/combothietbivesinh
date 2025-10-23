@@ -1,8 +1,11 @@
-# Combo Thiết Bị Nhà Tắm Cao Cấp – Sen Cây, Bồn Cầu, Lavabo Chính Hãng
+# Combo Thiết Bị Nhà Tắm Cao Cấp Chỉ 2800k
 ✨ Nâng Tầm Không Gian Phòng Tắm Hiện Đại
 
 Phòng tắm không chỉ là nơi vệ sinh cá nhân mà còn là không gian thư giãn sau một ngày dài.
 Bộ combo thiết bị nhà tắm cao cấp được thiết kế đồng bộ, sang trọng và tiện nghi, giúp bạn tối ưu chi phí, đồng thời tạo nên một tổng thể hài hòa, tinh tế cho ngôi nhà.
+
+LIÊN HỆ MUA HÀNG & TƯ VẤN
+## Hotline / Zalo: 0865.965.626 ||  0878.765.999
 
 💎 Combo Gồm Những Gì?
 
@@ -71,11 +74,8 @@ Bảo hành chính hãng: 3 – 5 năm
 Giao hàng toàn quốc trong 2 – 5 ngày làm việc
 
 📞 Liên Hệ Mua Hàng
-
 Đặt mua ngay combo thiết bị nhà tắm cao cấp để nhận ưu đãi đặc biệt trong tháng này!
 
 Hotline/Zalo: 0865 965 626
-
-Website: https://thietbivesinhcuong.vn
-
-Địa chỉ showroom: (cập nhật theo thực tế)
+Website: https://kingbep.vn/
+Địa chỉ showroom: 190 Nguyễn Trãi - Thanh Xuân - Hà Nội
