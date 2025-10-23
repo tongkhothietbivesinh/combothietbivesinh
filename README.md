@@ -3,7 +3,7 @@
 # 🛁 Combo Thiết Bị Vệ Sinh Cao Cấp | KingBep.vn
 
 <p align="center">
-  <img src="./images/cb7-phone.jpg" alt="Combo Thiết Bị Vệ Sinh Cao Cấp KingBep.vn" width="400">
+  <img src="./images/cb7-phone.jpg" alt="Combo Thiết Bị Vệ Sinh Cao Cấp KingBep.vn" width="300">
 </p>
 
 
