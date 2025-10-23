@@ -34,9 +34,34 @@ Tất cả đều được sản xuất theo tiêu chuẩn châu Âu, mang lại
 
 ## 🖼 Thư viện hình ảnh sản phẩm
 
-| ![Combo tbvs](./images/3.jpg) | ![Combo phòng tắm](./images/9.jpg) |
-|:----------------------------------------:|:------------------------------------------:|
-| ![Lavabo đá tự nhiên](./images/8.jpg) | ![Bộ tbvs](./images/10.jpg) |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+        <img src="./images/web-banda.jpg" width="200"><br>
+        <b>Bàn đá lavabo</b>
+    </td>
+    <td align="center">
+        <img src="./images/web-guongled.jpg" width="200"><br>
+        <b>Gương led 80x60</b>
+    </td>
+    <td align="center">
+        <img src="./images/web-sencaytam1.jpg" width="200"><br>
+        <b>Sen cây phím đàn</b>
+    </td>
+    <td align="center">
+        <img src="./images/web-voilavabo.jpg" width="200"><br>
+        <b>Vòi lavabo</b>
+    </td>
+    <td align="center">
+        <img src="./images/web-xibet.jpg" width="200"><br>
+        <b>Bồn cầu liền khối</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 > *Ảnh chụp thực tế sản phẩm tại showroom KingBep.vn.*
 
