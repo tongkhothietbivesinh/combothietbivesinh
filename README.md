@@ -54,6 +54,35 @@ Nếu bạn quan tâm đến **Combo Thiết Bị Vệ Sinh Cao Cấp**, đừng
 | ![Bồn tắm acrylic cao cấp](./images/bon-tam.jpg) | 🛁 **Bồn Tắm Acrylic Cao Cấp** | Chống trơn trượt, giữ nhiệt tốt, thiết kế tinh tế. | [Xem chi tiết →](https://github.com/trancuongttlc/Bon-tam-acrylic) | -->
 
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/trancuongttlc/Bon-cau-cao-cap">
+        <img src="./images/10.jpg" width="200"><br>
+        <b>Bồn Cầu Cao Cấp</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/trancuongttlc/Sen-cay-nhiet-do">
+        <img src="./images/11.jpg" width="200"><br>
+        <b>Sen Cây Nhiệt Độ Tự Động</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/trancuongttlc/Lavabo-da-tu-nhien">
+        <img src="./images/12.jpg" width="200"><br>
+        <b>Lavabo Đá Tự Nhiên</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
 ## 🛒 Mua ngay hôm nay
 
 👉 **Giảm ngay 10%** cho khách hàng đặt hàng online qua Zalo!  
