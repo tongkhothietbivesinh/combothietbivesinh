@@ -90,11 +90,11 @@ Nếu bạn quan tâm đến **Combo Thiết Bị Vệ Sinh Cao Cấp**, đừng
       <b>12.000.000đ</b>
     </td>
     <td align="center">
-      <a href="https://github.com/tongkhothietbivesinh/combophongtam-9mon">
-        <img alt="Combo phòng tắm 9 món" src="./images/17.jpg" width="200"><br>
-        <b>Combo phòng tắm 9 món</b>
+      <a href="https://github.com/tongkhothietbivesinh/tuguonglavabo">
+        <img alt="Tủ gương lavabo" src="./images/t17.jpg" width="200"><br>
+        <b>Tủ gương lavabo</b>
       </a>
-      <b>12.000.000đ</b>
+      <b>7.200.000đ</b>
     </td>
     <td align="center">
       <a href="https://github.com/tongkhothietbivesinh/combophongtam-9mon">
