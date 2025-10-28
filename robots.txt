@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
 
+# Không index các file, thư mục kỹ thuật
+Disallow: /node_modules/
+Disallow: /assets/
+Disallow: /images/*.psd$
+Disallow: /README.md
+Disallow: /LICENSE
+
+# Vị trí sitemap
 Sitemap: https://tongkhothietbivesinh.github.io/combothietbivesinh/sitemap.xml
